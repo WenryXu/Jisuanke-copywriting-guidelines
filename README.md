@@ -6,65 +6,53 @@
 
 正确：
 
-> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。
+> 在 jisuanke.com 上，界面样式是按照 `Jisuanke-UI` 为标准的。
 
 错误：
 
-> 在LeanCloud上，数据存储是围绕`AVObject`进行的。
+> 在jisuanke.com上，界面样式是按照`Jisuanke-UI`为标准的。
 
-> 在 LeanCloud上，数据存储是围绕`AVObject` 进行的。
+> 在 jisuanke.com上，界面样式是按照`Jisuanke-UI` 为标准的。
 
 完整的正确用法：
 
-> 在 LeanCloud 上，数据存储是围绕 `AVObject` 进行的。每个 `AVObject` 都包含了与 JSON 兼容的 key-value 对应的数据。数据是 schema-free 的，你不需要在每个 `AVObject` 上提前指定存在哪些键，只要直接设定对应的 key-value 即可。
+> 在 jisuanke.com 上，界面样式是按照 `Jisuanke-UI` 为标准的。`Jisuanke-UI` 是基于 Bootflat 的组件的。
 
 :exclamation: 例外：“豆瓣FM”等产品名词，按照官方所定义的格式书写。
+
+:exclamation: 例外：在课程 title 中不加空格，例如：`HTML、CSS与Javascript`
 
 ### 中文与数字之间需要增加空格
 
 正确：
 
-> 今天出去买菜花了 5000 元。
+> 计蒜客的《网页制作与设计》课需要 3 个学分空间。
 
 错误：
 
-> 今天出去买菜花了 5000元。
+> 计蒜客的《网页制作与设计》课需要 3个学分空间。
 
-> 今天出去买菜花了5000元。
+> 计蒜客的《网页制作与设计》课需要3个学分空间。
 
-### 数字与单位之间需要增加空格
+### 数字与英文单位之间不需要增加空格
 
 正确：
-
-> 我家的宽带有 1 Gbps，硬盘一共有 10 TB。
-
-错误：
 
 > 我家的宽带有 1Gbps，硬盘一共有 10TB。
 
-:exclamation: 例外：度或百分比与数字之间不需要增加空格：
-
-正确：
-
-> 今天是 233° 的高温。
-
-> 新 MacBook Pro 有 15% 的 CPU 性能提升。
-
 错误：
 
-> 今天是 233 ° 的高温。
-
-> 新 MacBook Pro 有 15 % 的 CPU 性能提升。
+> 我家的宽带有 1 Gbps，硬盘一共有 10 TB。
 
 ### 全形标点与其他字符之间不加空格
 
 正确：
 
-> 刚刚买了一部 iPhone，好开心！
+> Jisuanke-UI 基于 Bootflat，很好用。
 
 错误：
 
-> 刚刚买了一部 iPhone ，好开心！
+> Jisuanke-UI 基于 Bootflat ，很好用。
 
 ## 标点符号
 
@@ -72,65 +60,65 @@
 
 正确：
 
-> 德国队竟然战胜了巴西队！
+> 计蒜客实在是太好用了！
 
-> 她竟然对你说“喵”？！
+> 他们竟然抄袭计蒜客？！
 
 错误：
 
-> 德国队竟然战胜了巴西队！！
+> 计蒜客实在是太好用了！！
 
-> 她竟然对你说“喵”？？！！
+> 他们竟然抄袭计蒜客？？！！
 
-> 她竟然对你说“喵”？！？！？？！！
+> 他们竟然抄袭计蒜客？！？！？？！！
 
 ## 全形和半形
 
 :exclamation: 不明白什么是全形（全角）与半形（半角）符号？请查看维基百科词条 [全形和半形](http://zh.wikipedia.org/wiki/%E5%85%A8%E5%BD%A2%E5%92%8C%E5%8D%8A%E5%BD%A2) 。
 
-:exclamation: 禁止使用直角引号「」与『』！
+:exclamation: 禁止使用直角引号「」与『』
 
 ### 使用全形中文标点
 
 正确：
 
-> 嗨！你知道嘛？今天前台的小妹跟我说“喵”了哎！
+> 嗨！你知道吗？Master Yoda 跟我说“计蒜客这个网站很好用”哎！
 
-> 核磁共振成像（NMRI）是什么原理都不知道？JFGI！
+> 你连什么是计蒜客（Jisuanke）都不知道？naive！
 
 错误：
 
-> 嗨! 你知道嘛? 今天前台的小妹跟我说 "喵" 了哎!
+> 嗨！你知道吗？Master Yoda 跟我说 "计蒜客这个网站很好用" 哎！
 
-> 嗨!你知道嘛?今天前台的小妹跟我说"喵"了哎!
+> 嗨!你知道吗? Master Yoda 跟我说"计蒜客这个网站很好用"哎!
 
-> 核磁共振成像 (NMRI) 是什么原理都不知道? JFGI!
+> 你连什么是计蒜客 (Jisuanke) 都不知道？naive！
 
-> 核磁共振成像(NMRI)是什么原理都不知道?JFGI!
+> 你连什么是计蒜客(Jisuanke)都不知道?naive!
 
 ### 数字使用半形字符
 
 正确：
 
-> 这件蛋糕只卖 1000 元。
+> 参加计蒜客的考试要花 1000 元。
 
 错误：
 
-> 这件蛋糕只卖 １０００ 元。
+> 参加计蒜客的考试要花 １０００ 元。
 
 ### 遇到完整的英文整句、特殊名词，其內容使用半形标点
 
 正确：
 
-> 乔帮主那句话是怎么说的？“Stay hungry, stay foolish.”。
+> 计蒜客产品经理的信条是什么？“Stay hungry, stay foolish.”。
 
-> 推荐你阅读《Hackers & Painters: Big Ideas from the Computer Age》，非常的有趣。
+> 推荐你学习《C++》，非常的有趣。
 
 错误：
 
-> 乔帮主那句话是怎么说的？“Stay hungry，stay foolish。”。
+> 计蒜客产品经理的信条是什么？“Stay hungry，stay foolish。”。
 
-> 推荐你阅读《Hackers＆Painters：Big Ideas from the Computer Age》，非常的有趣。
+> 推荐你学习《C++》，非常的有趣。
 
 ## 大小写
 
@@ -140,7 +128,7 @@
 
 > 使用 GitHub 登录
 
-> 我们的客户有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
+> 我们的合作伙伴有 GitHub、Foursquare、Microsoft Corporation、Google、Facebook, Inc.。
 
 错误：
 
@@ -152,13 +140,13 @@
 
 > 使用 gitHub 登录
 
-> 我们的客户有 github、foursquare、microsoft corporation、google、facebook, inc.。
+> 我们的合作伙伴有 github、foursquare、microsoft corporation、google、facebook, inc.。
 
-> 我们的客户有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
+> 我们的合作伙伴有 GITHUB、FOURSQUARE、MICROSOFT CORPORATION、GOOGLE、FACEBOOK, INC.。
 
-> 我们的客户有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
+> 我们的合作伙伴有 Github、FourSquare、MicroSoft Corporation、Google、FaceBook, Inc.。
 
-> 我们的客户有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
+> 我们的合作伙伴有 gitHub、fourSquare、microSoft Corporation、google、faceBook, Inc.。
 
 ## 其他
 
@@ -169,3 +157,11 @@
 > 请 [提交一个 issue](#) 并分配给相关同事。
 
 > 访问我们网站的最新动态，请 [点击这里](#) 进行订阅！
+
+### 课程 title 中使用连接符
+
+用法：
+
+> 程序员笑话——Java
+
+> 来做个相册吧——盒子模型
