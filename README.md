@@ -20,8 +20,6 @@
 
 :exclamation: 例外：“豆瓣FM”等产品名词，按照官方所定义的格式书写。
 
-:exclamation: 例外：在课程 title 中不加空格，例如：`HTML、CSS与Javascript`
-
 ### 中文与数字之间需要增加空格
 
 正确：
